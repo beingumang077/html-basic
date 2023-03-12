@@ -1,0 +1,1 @@
+This repository is about introduction to basic HTML tags and a brief information about them.
